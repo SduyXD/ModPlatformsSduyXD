@@ -18,7 +18,7 @@
 	'mods/gdt-modAPI/api/topics.js',
 	'mods/gdt-modAPI/api/research.js',
 	'mods/gdt-modAPI/examples/examples.js',
-	'mods/ExpansionPack/source/source.js',
+	'mods/ModPlatformsSduyXD/source/source.js',
 	'mods/UltimateLib/UltimateLib.js'
 	], ready, error);
 })();
