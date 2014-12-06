@@ -29,7 +29,7 @@ var ModPlatformsSduyXD = {};
 	/* Grapple */
 
     ModPlatformsSduyXD.addPlatformiPhone5s = function () {
-		var icon = './mods/ExpansionPack/source/img/iPhone5s.png';
+		var icon = './mods/ModPlatformsSduyXD/source/img/iPhone5s.png';
 		GDT.addPlatform(
 			{
 				id: 'iPhone5s',
@@ -63,7 +63,7 @@ var ModPlatformsSduyXD = {};
 	};
 
 	ModPlatformsSduyXD.addPlatformiPhone4s = function () {
-    	var icon = './mods/ExpansionPack/source/img/iPhone4s.png';
+    	var icon = './mods/ModPlatformsSduyXD/source/img/iPhone4s.png';
 		GDT.addPlatform(
 			{
 				id: 'iPhone4s',
