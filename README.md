@@ -1,4 +1,4 @@
 ModPlatformsSduyXD
 ==================
 
-Mod To Game Dev Developer : Add Platforms
+Mod To Game Dev Tycoon : Add Platforms
