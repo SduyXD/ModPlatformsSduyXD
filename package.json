@@ -1,0 +1,10 @@
+﻿{
+	"id" : "ModPlatformsSduyXD",
+	"name" : "Mod Platforms SduyXD",
+	"version":"1.0.0",
+	"author":"SduyXD (Founder & Leader)",
+	"url":"https://github.com/SduyXD/ModPlatformsSduyXD",
+	"description" : "The one and only 'ModPlatformsSduyXD' for Game Dev Tycoon.",
+	"main" : "./ModPlatformsSduyXD.js",
+	"dependencies" : {"UltimateLib":"1.x.x"}
+}
